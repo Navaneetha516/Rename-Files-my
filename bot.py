@@ -10,7 +10,7 @@ API_ID = int(os.environ.get("API_ID", "20053544"))
 
 API_HASH = os.environ.get("API_HASH", "f26c4d28081c11e0c48707143f7bb5b1")
 
-STRING = os.environ.get("STRING", "")
+STRING = os.environ.get("STRING", "Remove string if bot don't work")
 
 
 
